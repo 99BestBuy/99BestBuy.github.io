@@ -11,7 +11,7 @@ app.controller('StoreController', function() {
     this.speakers = false;
     this.show= false;
     this.hidePaymentButton = function(){
- 	console.log("function called");
+ 	console.log("hide function in storecontroler called");
  	var myEl = angular.element( document.querySelector( '#paymentButton' ) );
 myEl.css('display','none');
  };
@@ -164,7 +164,7 @@ app.controller('DetailsController', ['$routeParams','$http', function($routePara
 		pd64.css('display','none');
 	};
  	if(id=='sanpd8'){
- rs699.css('display','none');
+ 		rs699.css('display','none');
  		san8.css('display','none');
 		san16.css('display','none');
 		san32.css('display','none');
@@ -179,7 +179,7 @@ app.controller('DetailsController', ['$routeParams','$http', function($routePara
 		pd64.css('display','none');
 	};
  	if(id=='sanpd16'){
- 	rs699.css('display','none');
+ 		rs699.css('display','none');
  		san8.css('display','none');
 		san16.css('display','none');
 		san32.css('display','none');
@@ -194,7 +194,7 @@ app.controller('DetailsController', ['$routeParams','$http', function($routePara
 		pd64.css('display','none');
 	};
  	if(id=='sanpd32'){
- 	rs699.css('display','none');
+ 		rs699.css('display','none');
  		san8.css('display','none');
 		san16.css('display','none');
 		san32.css('display','none');
@@ -209,7 +209,7 @@ app.controller('DetailsController', ['$routeParams','$http', function($routePara
 		pd64.css('display','none');
 	};
  	if(id=='sanpd64'){
- 	rs699.css('display','none');
+ 		rs699.css('display','none');
  		san8.css('display','none');
 		san16.css('display','none');
 		san32.css('display','none');
@@ -223,7 +223,23 @@ app.controller('DetailsController', ['$routeParams','$http', function($routePara
 		pd32.css('display','none');
 		pd64.css('display','block');
 	};
- 	if(id=='mi20000'||id=='jbl_go'){
+ 	if(id=='mi20000'){
+ 		rs699.css('display','block');
+ 		san8.css('display','none');
+		san16.css('display','none');
+		san32.css('display','none');
+		san64.css('display','none');
+		evo8.css('display','none');
+		evo16.css('display','none');
+		evo32.css('display','none');
+		evo64.css('display','none');
+		pd8.css('display','none');
+		pd16.css('display','none');
+		pd32.css('display','none');
+		pd64.css('display','none');
+ 	};
+ 	if(id=='jbl_go'){
+ 		div.css("display","block");
  		rs699.css('display','block');
  		san8.css('display','none');
 		san16.css('display','none');
@@ -239,9 +255,9 @@ app.controller('DetailsController', ['$routeParams','$http', function($routePara
 		pd64.css('display','none');
  	};
  };
- this.showPaymentButton(this.pid);
+ // this.showPaymentButton(this.pid);
  this.hidePaymentButton = function(){
- 	console.log("function called");
+ 	console.log("hide function called");
  	var myEl = angular.element( document.querySelector( '#paymentButton' ) );
 	myEl.css('display','none');
  };
