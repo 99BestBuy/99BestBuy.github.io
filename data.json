@@ -1,0 +1,167 @@
+[
+	{
+		"id":"evo8",
+		"name":"Samsung Evo 8gb class 10 memory card",
+		"price":160,
+		"discount":10,
+		"details":[
+			""
+		],
+		"inStock":true,
+		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"similarItems":[
+			"evo16",
+			"evo32",
+			"evo64",
+			"evo128"
+		]
+	},
+	{
+		"id":"evo16",
+		"name":"Samsung Evo 16gb class 10 memory card",
+		"price":200,
+		"discount":10,
+		"details":[
+			""
+		],
+		"inStock":true,
+		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"similarItems":[
+			"evo8",
+			"evo32",
+			"evo64",
+			"evo128"
+		]
+	},
+	{
+		"id":"evo32",
+		"name":"Samsung Evo 32gb class 10 memory card",
+		"price":300,
+		"discount":10,
+		"details":[
+			""
+		],
+		"inStock":true,
+		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"similarItems":[
+			"evo8",
+			"evo16",
+			"evo64",
+			"evo128"
+		]
+	},{
+		"id":"evo64",
+		"name":"Samsung Evo 64gb class 10 memory card",
+		"price":400,
+		"discount":20,
+		"details":[
+			""
+		],
+		"inStock":true,
+		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"similarItems":[
+			"evo8",
+			"evo16",
+			"evo32",
+			"evo128"
+		]
+	},{
+		"id":"evo128",
+		"name":"Samsung Evo 128gb class 10 memory card",
+		"price":1500,
+		"discount":20,
+		"details":[
+			""
+		],
+		"inStock":false,
+		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"similarItems":[
+			"evo8",
+			"evo16",
+			"evo32",
+			"evo64"
+		]
+	},{
+		"id":"san8",
+		"name":"Sandisk 8gb class 10 memory card",
+		"price":168,
+		"discount":10,
+		"details":[
+			""
+		],
+		"inStock":true,
+		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"similarItems":[
+			"san16",
+			"san32",
+			"san64",
+			"san128"
+		]
+	},{
+		"id":"san16",
+		"name":"Sandisk 16gb class 10 memory card",
+		"price":218,
+		"discount":10,
+		"details":[
+			""
+		],
+		"inStock":true,
+		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"similarItems":[
+			"san8",
+			"san32",
+			"san64",
+			"san128"
+		]
+	},{
+		"id":"san32",
+		"name":"Sandisk 32gb class 10 memory card",
+		"price":312,
+		"discount":10,
+		"details":[
+			""
+		],
+		"inStock":true,
+		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"similarItems":[
+			"san8",
+			"san16",
+			"san64",
+			"san128"
+		]
+	},
+	{
+		"id":"san64",
+		"name":"Sandisk 64gb class 10 memory card",
+		"price":424,
+		"discount":20,
+		"details":[
+			""
+		],
+		"inStock":true,
+		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"similarItems":[
+			"san8",
+			"san16",
+			"san32",
+			"san128"
+		]
+	},
+	{
+		"id":"san128",
+		"name":"Sandisk 128gb class 10 memory card",
+		"price":1580,
+		"discount":20,
+		"details":[
+			""
+		],
+		"inStock":false,
+		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"similarItems":[
+			"san8",
+			"san16",
+			"san32",
+			"san64",
+		]
+	},
+]

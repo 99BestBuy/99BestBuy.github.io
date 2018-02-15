@@ -1,0 +1,99 @@
+<div class="jumbotron jumbotron-fluid" style="background-image: url(cover.jpg); background-size: cover;" ng-init="store.hidePaymentButton()">
+  <div class="container" style="background-color: rgba(0, 0, 0, 0.5); color: white">
+    <h1 class="display-4">Get best deals on variety of products.</h1>
+    <p class="lead">New imported products at lowest prices.</p>
+  </div>
+</div>
+
+<div class="container-fluid" style="border-bottom: 1px solid black;">
+	<div class="row align-items-center" style="text-align: center;">
+		<div class="col-3 product-type-tab" ng-click="store.usbDrives=false;store.memoryCards=true;store.powerBanks=false;store.speakers=false">
+			<div class="col-12">
+				<img src="sd.png" style="height: 2em;">
+			</div>
+			<div class="col-12">Memory cards</div>
+		</div>
+		<div class="col-3 product-type-tab" ng-click="store.usbDrives=true;store.memoryCards=false;store.powerBanks=false;store.speakers=false">
+		<div class="col-12">
+			<img src="usb.png" style="height: 2em;">
+		</div>
+			<div class="col-12">USB Drives</div>
+		</div>
+		<div class="col-3 product-type-tab" ng-click="store.usbDrives=false;store.memoryCards=false;store.powerBanks=true;store.speakers=false">
+		<div class="col-12">
+			<img src="power bank.png" style="height: 2em;">
+		</div>
+			<div class="col-12">Power banks</div>
+		</div>
+		<div class="col-3 product-type-tab" ng-click="store.usbDrives=false;store.memoryCards=false;store.powerBanks=false;store.speakers=true">
+		<div class="col-12">
+			<img src="speaker.png" style="height: 2em;">
+		</div>
+			<div class="col-12">Speakers</div>
+		</div>
+	</div>
+</div>
+
+<div class="container" style="margin-top: 2%;" ng-show="store.memoryCards"> 
+	<p class="lead text-center">Memory Cards</p>
+	<div class="row" style="text-align: center;">
+		<div class="col-6 col-md-4 product" style="margin: 2% 0%;" ng-repeat="product in store.memoryCardsData">
+			<a href="#/details/{{product.id}}">
+			<div class="col-12">
+			<img ng-src="images/{{product.id}}.jpg" style="height: 5em;margin: 4% 0%;">
+		</div>
+			<div class="col-12" style="border-top: 1px solid grey;">{{product.name}}</div>
+			<div class="col-12" style="line-height: 0.9;"><small>Offer: Get flat {{product.discount}}% off on first order.</small></div>
+			<div class="col-12" style="line-height: 1.2;">&#8377;{{product.price}}</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="container" style="margin-top: 2%;" ng-show="store.usbDrives"> 
+	<p class="lead text-center">USB Drives</p>
+	<div class="row" style="text-align: center;">
+		<div class="col-4 product" style="margin: 2% 0%;" ng-repeat="product in store.usbDrivesData">
+			<a href="#/details/{{product.id}}">
+			<div class="col-12">
+			<img src="images/pd.jpg" style="height: 5em;margin: 4% 0%;">
+		</div>
+			<div class="col-12" style="border-top: 1px solid grey;">{{product.name}}</div>
+			<div class="col-12" style="line-height: 0.9;"><small>Offer: Get flat {{product.discount}}% off on first order.</small></div>
+			<div class="col-12" style="line-height: 1.2;">&#8377;{{product.price}}</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="container" style="margin-top: 2%;" ng-show="store.powerBanks"> 
+	<p class="lead text-center">Power Banks</p>
+	<div class="row" style="text-align: center;">
+		<div class="col-4 product" style="margin: 2% 0%;" ng-repeat="product in store.powerBanksData">
+			<a href="#/details/{{product.id}}">
+			<div class="col-12">
+			<img ng-src="images/pb1.jpeg" style="height: 10em;margin: 4% 0%;">
+		</div>
+			<div class="col-12" style="border-top: 1px solid grey;">{{product.name}}</div>
+			<div class="col-12" style="line-height: 0.9;"><small>Offer: Get flat {{product.discount}}% off on first order.</small></div>
+			<div class="col-12" style="line-height: 1.2;">&#8377;{{product.price}}</div>
+			</a>
+		</div>
+	</div>
+</div>
+
+<div class="container" style="margin-top: 2%;" ng-show="store.speakers"> 
+	<p class="lead text-center">Wireless Speakers</p>
+	<div class="row" style="text-align: center;">
+		<div class="col-4 product" style="margin: 2% 0%;" ng-repeat="product in store.speakersData">
+			<a href="#/details/{{product.id}}">
+			<div class="col-12">
+			<img ng-src="images/jbl1.jpeg" style="height: 5em;margin: 4% 0%;">
+		</div>
+			<div class="col-12" style="border-top: 1px solid grey;">{{product.name}}</div>
+			<div class="col-12" style="line-height: 0.9;"><small>Offer: Get flat {{product.discount}}% off on first order.</small></div>
+			<div class="col-12" style="line-height: 1.2;">&#8377;{{product.price}}</div>
+			</a>
+		</div>
+	</div>
+</div>

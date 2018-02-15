@@ -1,0 +1,104 @@
+<!DOCTYPE html>
+<html ng-app="store">
+<head>
+	<title>Best Buy</title>
+	<link rel="stylesheet" href="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/css/bootstrap.min.css" integrity="sha384-Gn5384xqQ1aoWXA+058RXPxPg6fy4IWvTNh0E263XmFcJlSAwiGgFAW/dAiS6JXm" crossorigin="anonymous">
+	<link rel="stylesheet" type="text/css" href="styles.css">
+</head>
+<body>
+
+	<nav class="navbar fixed-top navbar-expand-lg navbar-dark bg-dark">
+  <a class="navbar-brand" href="#/">Best Buy</a>
+  <button class="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarNav" aria-controls="navbarNav" aria-expanded="false" aria-label="Toggle navigation">
+    <span class="navbar-toggler-icon"></span>
+  </button>
+  <div class="collapse navbar-collapse justify-content-between" id="navbarNav">
+    <ul class="navbar-nav">
+      <li class="nav-item active">
+        <a class="nav-link" href="#/">Home <span class="sr-only">(current)</span></a>
+      </li>
+    </ul>
+    <ul class="navbar-nav">
+      <li class="nav-item">
+        <a class="nav-link" href="#/contact">Contact</a>
+      </li>
+    	<li class="nav-item">
+    		<a class="nav-link" href="#/track">Track your order</a>
+    	</li>
+    </ul>
+  </div>
+</nav>
+
+<div ng-view></div>
+<div class="container">
+<div class="row" id="paymentButton">
+  button div text
+<div class="col" id="evo8">
+<a href="https://www.instamojo.com/@thebestbuy/la44058c5529e402787013c468f6ff8d9/" rel="im-checkout" data-behaviour="remote" data-style="light" data-text="Proceed to payment"></a>
+</div>
+<div class="col" id="evo16">
+<a href="https://www.instamojo.com/@thebestbuy/ld8cf4884bd2d4f64a287d5113ef52da6/" rel="im-checkout" data-behaviour="remote" data-style="light" data-text="Proceed to payment"></a>
+</div>
+<div class="col" id="evo32">
+<a href="https://www.instamojo.com/@thebestbuy/l056f1ff58a584239baed42120f3ad770/" rel="im-checkout" data-behaviour="remote" data-style="light" data-text="Proceed to payment"></a>
+</div>
+<div class="col" id="evo64">
+<a href="https://www.instamojo.com/@thebestbuy/l450a24aa7374426ea3683b6a04be37eb/" rel="im-checkout" data-behaviour="remote" data-style="light" data-text="Proceed to payment"></a>
+</div>
+<div class="col" id="san8">
+<a href="https://www.instamojo.com/@thebestbuy/l55021888b16641fcba08660c7b653870/" rel="im-checkout" data-behaviour="remote" data-style="light" data-text="Proceed to payment"></a>
+</div>
+<div class="col" id="san16">
+<a href="https://www.instamojo.com/@thebestbuy/ld6c7c60e7f6f476fb3f50c4fa503466f/" rel="im-checkout" data-behaviour="remote" data-style="light" data-text="Proceed to payment"></a>
+</div>
+<div class="col" id="san32">
+<a href="https://www.instamojo.com/@thebestbuy/l3eeb3a4a35034ccb93ad449e84f94546/" rel="im-checkout" data-behaviour="remote" data-style="light" data-text="Proceed to payment"></a>
+</div>
+<div class="col" id="san64">
+<a href="https://www.instamojo.com/@thebestbuy/l7936fbaac3b54f929e2119deb906630e/" rel="im-checkout" data-behaviour="remote" data-style="light" data-text="Proceed to payment"></a>
+</div>
+<div class="col" id="pd8">
+<a href="https://www.instamojo.com/@thebestbuy/lab1e72ea34204b6ebdf770356ed0777a/" rel="im-checkout" data-behaviour="remote" data-style="light" data-text="Proceed to payment"></a>
+</div>
+<div class="col" id="pd16">
+<a href="https://www.instamojo.com/@thebestbuy/l8c56f698fce1467da630b33f3b28faf0/" rel="im-checkout" data-behaviour="remote" data-style="light" data-text="Proceed to payment"></a>
+</div>
+<div class="col" id="pd32">
+<a href="https://www.instamojo.com/@thebestbuy/ld4caa79ed88b4d3c9b132aae1cad8107/" rel="im-checkout" data-behaviour="remote" data-style="light" data-text="Proceed to payment"></a>
+</div>
+<div class="col" id="pd64">
+<a href="https://www.instamojo.com/@thebestbuy/lece2e1794f314b2d897f36913c132892/" rel="im-checkout" data-behaviour="remote" data-style="light" data-text="Proceed to payment"></a>
+</div>
+<div class="col" id="rs699">
+<a href="https://www.instamojo.com/@thebestbuy/l420f04e516ae4561ada6f06bf4d2e177/" rel="im-checkout" data-behaviour="remote" data-style="light" data-text="Proceed to payment"></a>
+</div>
+</div>
+</div>
+
+<footer class="container-fluid" style="background-color: rgba(0,0,0,0.8);">
+	<div style="padding-top:5%; color: white;">
+    <p class="lead text-center"><a href="#/contact" style="color: rgba(255,255,255,0.5);">Contact</a></p><br>
+	<p class="text-center" style="color: grey">&#9400; Copyright 99 Best Buy 2018</p>
+	</div>
+</footer>
+
+</body>
+<script type="text/javascript">
+  //function to reset contact form and display message.
+function formSubmit() {
+    var message = document.getElementById("message");
+    var name = document.getElementById("name").value;
+    var form = document.getElementById("contactForm");
+    form.reset();
+    message.classList.add('alert-success');
+    message.innerHTML = "Thank you " + name + "! We'll get back to you soon.";
+}
+</script>
+<script src="https://code.jquery.com/jquery-3.2.1.slim.min.js" integrity="sha384-KJ3o2DKtIkvYIK3UENzmM7KCkRr/rE9/Qpg6aAZGJwFDMVNA/GpGFF93hXpG5KkN" crossorigin="anonymous"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/popper.js/1.12.9/umd/popper.min.js" integrity="sha384-ApNbgh9B+Y1QKtv3Rn7W3mgPxhU9K/ScQsAP7hUibX39j7fakFPskvXusvfa0b4Q" crossorigin="anonymous"></script>
+<script src="https://maxcdn.bootstrapcdn.com/bootstrap/4.0.0/js/bootstrap.min.js" integrity="sha384-JZR6Spejh4U02d8jOt6vLEHfe/JQGiRRSQQxSfFWpi1MquVdAyjUar5+76PVCmYl" crossorigin="anonymous"></script>
+<script src="https://ajax.googleapis.com/ajax/libs/angularjs/1.5.8/angular.min.js"></script>
+<script src="https://cdnjs.cloudflare.com/ajax/libs/angular.js/1.5.8/angular-route.min.js"></script>
+<script type="text/javascript" src="app.js"></script>
+<script src="https://js.instamojo.com/v1/button.js"></script>
+</html>
