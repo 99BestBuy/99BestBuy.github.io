@@ -50,3 +50,21 @@ box-shadow: 5px 14px 56px -12px rgba(0,0,0,0.75);
 #evo8,#evo16,#evo32,#evo64,#san8,#san16,#san32,#san64,#rs699,#pd8,#pd16,#pd32,#pd64{
 	display: none;
 }
+/* Sticky footer styles
+-------------------------------------------------- */
+html {
+  position: relative;
+  min-height: 100%;
+}
+body {
+  /* Margin bottom by footer height */
+  margin-bottom: 120px;
+}
+footer {
+  position: absolute;
+  bottom: 0;
+  width: 100%;
+  /* Set the fixed height of the footer here */
+  height: 120px;
+   /* Vertically center the text there */
+}
