@@ -299,7 +299,7 @@ var sd = [
 			"Read Speed: 48 MB/s"
 		],
 		"inStock":true,
-		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"description":"Samsung Evo Microsdhc Flash Memory Card Comes With 8gb Memory Size And Has Class 10/uhs-i Speed Rating.",
 		"similarItems":[
 			"evo16",
 			"evo32",
@@ -319,7 +319,7 @@ var sd = [
 			"Read Speed: 48 MB/s"
 		],
 		"inStock":true,
-		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"description":"Are you planning to buy a new mobile phone and you have tons of data, songs, and videos that you require? Then this memory card from Samsung might be something you need to easily transfer all the data. Capacity: It has a capacity of 16GB, so you can easily store data from your smartphone, tablet and laptop. It works perfectly even with advanced devices and allows you to transfer pictures two times faster than a regular microSD card. Faster Transfer With a transfer speed of up to 48MB per second, this memory card lets you transfer up to 360 photos per minute, so now spend less time transferring pictures.",
 		"similarItems":[
 			"evo8",
 			"evo32",
@@ -339,7 +339,7 @@ var sd = [
 			"Read Speed: 48 MB/s",
 		],
 		"inStock":true,
-		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"description":"Save pictures and transfer files faster with this Samsung Evo 32GB Micro SDHC Class 10 memory card. This Ultra High Speed memory card is UHS-enabled which means it’s faster and more efficient than your average microSD card. Plus, it’s water and temperature proof!",
 		"similarItems":[
 			"evo8",
 			"evo16",
@@ -377,7 +377,7 @@ var sd = [
 			"Read Speed: 48 MB/s"
 		],
 		"inStock":false,
-		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"description":"Free up your devices with the largest capacity and highest read/write speeds in Samsung's class, perfect for 4K UHD video - with astonishing performance and reliability, Evo lets you save and treasure the richness of life Record and play 4K UHD video - with ultra-fast read and write speeds up to 100mbps and 90mbps respectively (Depends on your device, it may or may not come), the 128GB Evo lets you transfer a 3GB video to your notebook in just 38 seconds (May or May not, depends on Device) Never worry about space again - with massive amounts of storage the 128GB Evo is enough memory for up to 6 hours of 4K UHD video, 17 hours of full HD video, 27,600 photos or 11,500 songs Compatible with a wide range of devices for both SD and micro SD You can even capture detailed 4K UHD video The included SD adapter fits most devices under almost every brand name, while preserving all of Evo outstanding speed and performance Interface: UHS-I, compatible to HS interface.",
 		"similarItems":[
 			"evo8",
 			"evo16",
@@ -396,7 +396,7 @@ var sd = [
 			"Read Speed: 80 MB/s"
 		],
 		"inStock":true,
-		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"description":"Now you can capture FHD videos and high-resolution photographs with your camcorder, tablet or smartphone. The Sandisk Mobile Ultra (SDSDQUA-008G-U46A) Class 10 UHS-I micro SDHC Memory Card offers you 8 GB storage capacity to let you store a great number of videos, images, songs, files and more on your several multimedia devices. You can record full HD videos with up to 1080p resolution as well as click high-resolution pictures. You can save up to 80 minutes long videos and up to 8000 photographs in this Mobile Ultra Class 10 UHS-I micro SDHC Memory Card.",
 		"similarItems":[
 			"san16",
 			"san32",
@@ -415,7 +415,7 @@ var sd = [
 			"Read Speed: 98 MB/s"
 		],
 		"inStock":true,
-		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"description":"Record and store high-definition videos, photos, thousands of songs and e-books, and you will still have space for more on your Android smartphone with this SanDisk Ultra 16GB microSDHC memory card. Since it is waterproof, temperature-proof, shock-proof and X-ray-proof, this class 10 memory card will keep your files secure and safe.",
 		"similarItems":[
 			"san8",
 			"san32",
@@ -434,7 +434,7 @@ var sd = [
 			"Read Speed: 80 MB/s"
 		],
 		"inStock":true,
-		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"description":"Fast Data Transfer: With transfer speeds of up to 80MB/s, the card brings faster read speeds so you can save time transferring data. Take Better Pictures and Capture Full HD Video: Maximize the performance of your camera or camcorder with the SanDisk Ultra microSD Class 10 UHS-I Memory Card. Ideal for compact to mid-range point-and-shoot cameras, camcorders and laptops. Save time moving content from your card to your PC or other devices with fast transfer speeds and Class 10 supports Full HD (1080p) video capture.",
 		"similarItems":[
 			"san8",
 			"san16",
@@ -454,7 +454,7 @@ var sd = [
 			"Read Speed: 98 MB/s"
 		],
 		"inStock":true,
-		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"description":"Capacity: 64GB;SanDisk Ultra microSDXC and microSDHC cards are fast for better pictures, app performance, and Full HD video.1 Ideal for Android smartphones and tablets, these A1-rated cards load apps faster for a better smartphone experience.3 With up to 256GB* capacity, you have the capacity to take more pictures and Full HD video and capture life at its fullest. Built to perform in harsh conditions, SanDisk Ultra microSD cards are waterproof, temperature proof, shockproof, and X-ray proof.2 The microSD card is also rated Class 10 for Full HD video recording performance and a 10-year limited warranty4.",
 		"similarItems":[
 			"san8",
 			"san16",
@@ -474,7 +474,7 @@ var sd = [
 			"Read Speed: 80 MB/s"
 		],
 		"inStock":false,
-		"description":"Amazing Capacity - Save Upto 37270 Photos or 490 mins of Full HD Video or 1050 mins of HD Video or 15330 MP3 Songs, Durability: 10000 Mating Cycles , FCC, CE, VCCI, NATA Certification, Minimum Storage Temperature: -40 °C",
+		"description":"Capture beautiful memories and shoot Full HD videos on your smartphone or tablet, without worrying about storage space, by inserting the SanDisk 128 GB microSDXC card. With a transfer speed of up to 95 MB/s, this microSDXC card allows you to transfer files quickly.",
 		"similarItems":[
 			"san8",
 			"san16",
@@ -516,7 +516,7 @@ var pd = [
 			"Color: Multicolor"
 		],
 		"inStock":true,
-		"description":"Featuring a sleek, compact body, the SanDisk Cruzer Blade pen drive can easily fit into the pocket of your jeans or your bag and accompany you everywhere. Also, you can attach a strap to it to easily carry it along. It comes with 16 GB of storage capacity that offers enough room for your photos, movies, music and personal data",
+		"description":"Featuring a sleek, compact body, the SanDisk Cruzer Blade pen drive can easily fit into the pocket of your jeans or your bag and accompany you everywhere. Also, you can attach a strap to it to easily carry it along. It comes with 16 GB of storage capacity that offers enough room for your photos, movies, music and personal data.",
 		"similarItems":[
 			"sanpd8",
 			"sanpd32",
@@ -535,7 +535,7 @@ var pd = [
 			"Color: Multicolor"
 		],
 		"inStock":true,
-		"description":"Meet the SanDisk Cruzer Blade 32 GB pendrive - your friendly storage device. Store all that you want, from movies to songs, pictures to videos, PDF files to documents, this in USB 2.0",
+		"description":"Meet the SanDisk Cruzer Blade 32 GB pendrive - your friendly storage device. Store all that you want, from movies to songs, pictures to videos, PDF files to documents, this in USB 2.0.",
 		"similarItems":[
 			"sanpd8",
 			"sanpd16",
@@ -553,7 +553,7 @@ var pd = [
 			"Color: Multicolor"
 		],
 		"inStock":true,
-		"description":"",
+		"description":"Backing up, transferring, sharing, and storing files is convenient with this SanDisk Blade 64GB pendrive.Easy to use Compact in design and with generous storage space, this flash drive lets you start storing and transferring files immediately.",
 		"similarItems":[
 			"sanpd8",
 			"sanpd16",
