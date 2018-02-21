@@ -223,7 +223,7 @@ app.controller('DetailsController', ['$routeParams','$http', function($routePara
 		pd32.css('display','none');
 		pd64.css('display','block');
 	};
- 	if(id=='mi20000'){
+ 	if(id==='mi20000'){
  		rs699.css('display','block');
  		san8.css('display','none');
 		san16.css('display','none');
@@ -238,8 +238,7 @@ app.controller('DetailsController', ['$routeParams','$http', function($routePara
 		pd32.css('display','none');
 		pd64.css('display','none');
  	};
- 	if(id=='jbl_go'){
- 		div.css("display","block");
+ 	if(id==='jbl_go'){
  		rs699.css('display','block');
  		san8.css('display','none');
 		san16.css('display','none');
