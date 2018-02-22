@@ -1,4 +1,4 @@
-<div class="container" style="margin-top: 10vmax" ng-init="detail.showPaymentButton(detail.pid)">
+<div class="container" style="margin-top: 10vmax">
 	<div class="row">
 		<div class="col-12">
 			<h4 class="display-4">Complete your order</h4>
@@ -45,14 +45,16 @@
 <div class="col-12 col-md-4">
   <div class="row final-view" ng-repeat="product in detail.getType()">
     <div class="col-12 text-center" ng-if="product.id==detail.pid">
-      <img ng-src="images/{{product.id}}.jpg" ng-hide="detail.type=='pd'" style="height: 5em;margin-top: 5%;">
-      <img ng-src="images/pd.jpg" ng-show="detail.type=='pd'" style="height: 5em;margin-top: 5%;">
+      <img ng-src="images/{{product.id}}.jpg" ng-hide="detail.type=='pd'" style="height: 5em;margin-top: 3%;">
+      <img ng-src="images/pd.jpg" ng-show="detail.type=='pd'" style="height: 5em;margin-top: 3%;">
     </div>
     <div class="col-12" ng-if="product.id==detail.pid">
       <p class="text-center"><b>{{product.name}}</b><br>&#8377;{{product.price-product.price*product.discount/100 | number : 0}}<br>Delivery in 2-4 business days<br><span class="lead"><b>{{name}}</b></span><br>{{add1}}<br>{{add2}}<br>{{city}} {{state}} {{zip}}</p>
     </div>
+    <div class="col-12 text-center" ng-if="product.id==detail.pid"> 
+    <a ng-href="{{product.paymentUrl}}"><Button style="background-color: green;cursor: pointer;padding: 2% 5%;color: white;margin-bottom: 2%">Continue</Button></a>
+    </div>
   </div>
-
 </div>
 </div>
 </div>

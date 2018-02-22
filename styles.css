@@ -39,17 +39,12 @@ transform: scale(1.05);
 	font-weight: bold;
 }
 .final-view{
-	margin-top: 5%;
+	margin-top: 0;
 	-webkit-box-shadow: 5px 14px 56px -12px rgba(0,0,0,0.75);
 -moz-box-shadow: 5px 14px 56px -12px rgba(0,0,0,0.75);
 box-shadow: 5px 14px 56px -12px rgba(0,0,0,0.75);
 }
-#paymentButton{
-	display: none;
-}
-#evo8,#evo16,#evo32,#evo64,#san8,#san16,#san32,#san64,#rs699,#pd8,#pd16,#pd32,#pd64{
-	display: none;
-}
+
 /* Sticky footer styles
 -------------------------------------------------- */
 html {
