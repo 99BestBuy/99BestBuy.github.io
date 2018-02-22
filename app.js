@@ -407,7 +407,7 @@ var cust = [
 		"phone":7877536205,
 		"email":"daljeetee45@gmail.com",
 		"date":"22-Feb-2018",
-		"status":"In Transit",
+		"status":"Processing Order",
 		"expectedDeliveryDate":"27-Feb-2018"
 	}
 ];
