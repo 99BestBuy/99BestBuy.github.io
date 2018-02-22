@@ -10,11 +10,7 @@ app.controller('StoreController', function() {
     this.powerBanks = false;
     this.speakers = false;
     this.show= false;
-    this.hidePaymentButton = function(){
- 	console.log("hide function in storecontroler called");
- 	var myEl = angular.element( document.querySelector( '#paymentButton' ) );
-myEl.css('display','none');
- };
+    this.customers = cust;
   });
 
 
@@ -56,7 +52,7 @@ app.config(['$routeProvider', function($routeProvider) {
   .when('/track', {
    templateUrl: 'track.html',
    controller:  'StoreController' ,
-   controllerAs: 'item'
+   controllerAs: 'track'
   })
   .when('/contact', {
    templateUrl: 'contact.html',
@@ -398,5 +394,20 @@ var sp = [
 			""
 		],
 		"paymentUrl":"https://imjo.in/fFpHDn"
+	}
+];
+
+
+var cust = [
+	{
+		"id":"1",
+		"name":"Ravi Singh",
+		"paymentId":"MOJO8222005W25422228",
+		"amount":699,
+		"phone":7877536205,
+		"email":"daljeetee45@gmail.com",
+		"date":"22-Feb-2018",
+		"status":"In Transit",
+		"expectedDeliveryDate":"27-Feb-2018"
 	}
 ];

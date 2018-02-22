@@ -1,4 +1,4 @@
-<div class="container" style="margin-top: 10vmax;" ng-init="item.hidePaymentButton()">
+<div class="container" style="margin-top: 10vmax;">
 	<div class="row">
 		<div class="col-12" style="margin-bottom: 2%">
 			<h4 class="display-4">Track your order</h4>
@@ -8,17 +8,42 @@
   <div class="form-row">
     <div class="form-group col-md-6">
       <label for="inputEmail4">Enter your email id</label>
-      <input type="email" class="form-control" id="inputEmail4" placeholder="Email" required>
+      <input type="email" ng-model=email class="form-control" id="inputEmail4" placeholder="Email" required>
     </div>
   </div>
-  <button class="btn" ng-click="item.show=true" style="margin-bottom: 5%">Track</button>
+  <button class="btn" ng-click="track.show=true" style="margin-bottom: 5%">Track</button>
 </form>
 </div>
 
 <div class="container">
-  <div class="row" ng-if="item.show==true" style="text-align: center;color: red">
-    <div class="col-12">
-  No order found with this email id.
+  <div class="row" ng-if="track.show==true" style="text-align: center">
+    <div class="col-12" ng-repeat="customer in track.customers">
+      <div ng-if="customer.email == email" class="row" style="margin-bottom: 5%;border: 2px solid rgba(0,0,0,0.2);padding: 3% 0%;">
+        <div class="col-3">
+          <div class="row">
+            <div class="col-12"><small>Order placed on</small></div>
+            <div class="col-12">{{customer.date}}</div>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="row">
+            <div class="col-12"><small>Buyer name</small></div>
+            <div class="col-12">{{customer.name}}</div>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="row">
+            <div class="col-12"><small>Status</small></div>
+            <div class="col-12" style="color: green;font-weight: bold;">{{customer.status}}</div>
+          </div>
+        </div>
+        <div class="col-3">
+          <div class="row">
+            <div class="col-12"><small>Expected delivery date</small></div>
+            <div class="col-12">{{customer.expectedDeliveryDate}}</div>
+          </div>
+        </div>
   </div>
+  <p ng-if="customer.email !== email" style="color: red">No order found with this email id.</p>
 </div>
 </div>
