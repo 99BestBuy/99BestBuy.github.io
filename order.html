@@ -52,7 +52,7 @@
       <p class="text-center"><b>{{product.name}}</b><br>&#8377;{{product.price-product.price*product.discount/100 | number : 0}}<br>Delivery in 2-4 business days<br><span class="lead"><b>{{name}}</b></span><br>{{add1}}<br>{{add2}}<br>{{city}} {{state}} {{zip}}</p>
     </div>
     <div class="col-12 text-center" ng-if="product.id==detail.pid"> 
-    <a ng-href="{{product.paymentUrl}}"><Button style="background-color: green;cursor: pointer;padding: 2% 5%;color: white;margin-bottom: 2%">Continue</Button></a>
+    <a ng-href="{{product.paymentUrl}}"><Button style="background-color: green;cursor: pointer;padding: 2% 5%;color: white;margin-bottom: 2%">Proceed to payment</Button></a>
     </div>
   </div>
 </div>
