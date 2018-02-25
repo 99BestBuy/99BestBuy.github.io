@@ -17,6 +17,7 @@ app.controller('StoreController', function() {
     			return false;
     		}
     	}
+	       return true;
     };
   });
 
