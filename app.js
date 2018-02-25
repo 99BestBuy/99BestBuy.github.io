@@ -409,5 +409,16 @@ var cust = [
 		"date":"22-Feb-2018",
 		"status":"In Transit",
 		"expectedDeliveryDate":"27-Feb-2018"
+	},
+	{
+		"id":"1",
+		"name":"Pushparaj",
+		"paymentId":"MOJO8225005N56879917",
+		"amount":339,
+		"phone":8056356400,
+		"email":"venkatanarayann@gmail.com",
+		"date":"25-Feb-2018",
+		"status":"Processing order",
+		"expectedDeliveryDate":"29-Feb-2018"
 	}
 ];
