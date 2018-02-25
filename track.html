@@ -44,6 +44,8 @@
           </div>
         </div>
   </div>
-  <p ng-hide="customer.email == email" style="color: red">No order found with this email id.</p>
+</div>
+<div class="col-12" ng-repeat="customer in track.customers">
+<p ng-hide="customer.email === email" style="color: red">No order found with this email id.</p>
 </div>
 </div>
