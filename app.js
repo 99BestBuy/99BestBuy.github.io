@@ -11,13 +11,10 @@ app.controller('StoreController', function() {
     this.speakers = false;
     this.show= false;
     this.customers = cust;
-    this.checkOrder = function(email){
+       this.checkOrder = function(email){
     	for (var i = 0; i < this.customers.length; i++) {
     		if(this.customers[i].email == email){
     			return false;
-    		}
-    		else{
-    			return true;
     		}
     	}
     };
