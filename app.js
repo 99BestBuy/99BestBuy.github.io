@@ -426,7 +426,18 @@ var cust = [
 		"phone":8056356400,
 		"email":"venkatanarayann@gmail.com",
 		"date":"25-Feb-2018",
-		"status":"Processing order",
+		"status":"In Transit",
 		"expectedDeliveryDate":"29-Feb-2018"
+	},
+	{
+		"id":"1",
+		"name":"Amit Kumar Verma",
+		"paymentId":"MOJO8226005A34197976",
+		"amount":270,
+		"phone":9953965296,
+		"email":"weblink.amitkumar@gmail.com",
+		"date":"25-Feb-2018",
+		"status":"Processing order",
+		"expectedDeliveryDate":"02-Mar-2018"
 	}
 ];
