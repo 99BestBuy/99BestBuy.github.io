@@ -436,7 +436,7 @@ var cust = [
 		"amount":270,
 		"phone":9953965296,
 		"email":"weblink.amitkumar@gmail.com",
-		"date":"25-Feb-2018",
+		"date":"26-Feb-2018",
 		"status":"In Transit",
 		"expectedDeliveryDate":"02-Mar-2018"
 	}},
@@ -447,7 +447,7 @@ var cust = [
 		"amount":320,
 		"phone":7462985253,
 		"email":"muhammadil591@gmail.com",
-		"date":"26-Feb-2018",
+		"date":"27-Feb-2018",
 		"status":"Processing order",
 		"expectedDeliveryDate":"03-Mar-2018"
 	}
