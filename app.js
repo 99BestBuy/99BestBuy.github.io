@@ -415,7 +415,7 @@ var cust = [
 		"phone":7877536205,
 		"email":"daljeetee45@gmail.com",
 		"date":"22-Feb-2018",
-		"status":"In Transit",
+		"status":"Out for delivery",
 		"expectedDeliveryDate":"27-Feb-2018"
 	},
 	{
@@ -437,7 +437,18 @@ var cust = [
 		"phone":9953965296,
 		"email":"weblink.amitkumar@gmail.com",
 		"date":"25-Feb-2018",
-		"status":"Processing order",
+		"status":"In Transit",
 		"expectedDeliveryDate":"02-Mar-2018"
+	}},
+	{
+		"id":"1",
+		"name":"Dilshad",
+		"paymentId":"MOJO8227005A18483869",
+		"amount":320,
+		"phone":7462985253,
+		"email":"muhammadil591@gmail.com",
+		"date":"26-Feb-2018",
+		"status":"Processing order",
+		"expectedDeliveryDate":"03-Mar-2018"
 	}
 ];
