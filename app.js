@@ -439,7 +439,7 @@ var cust = [
 		"date":"26-Feb-2018",
 		"status":"In Transit",
 		"expectedDeliveryDate":"02-Mar-2018"
-	}},
+	},
 	{
 		"id":"1",
 		"name":"Dilshad",
