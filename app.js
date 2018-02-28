@@ -375,7 +375,7 @@ var pb = [
 			"Power Source: AC Adapter",
 			"Charging Cable Included"
 		],
-		"inStock":true,
+		"inStock":false,
 		"description":"",
 		"similarItems":[
 			""
@@ -396,7 +396,7 @@ var sp = [
 			"Power Source: Battery",
 			"Wireless music streaming via Bluetooth"
 		],
-		"inStock":true,
+		"inStock":false,
 		"description":"If you unexpectedly happen to end up at a house party on a Friday night and your friends don't have any sound system to play tunes on, this speaker will be a saviour and take the party on all night long.",
 		"similarItems":[
 			""
