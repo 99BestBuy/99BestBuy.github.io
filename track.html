@@ -43,6 +43,12 @@
             <div class="col-12">{{customer.expectedDeliveryDate}}</div>
           </div>
         </div>
+        <div class="col-6 col-md-3" ng-show="customer.IsDelivered" style="padding: 1%">
+          <div class="row">
+            <div class="col-12"><small>Delivered on</small></div>
+            <div class="col-12">{{customer.deliveryDate}}</div>
+          </div>
+        </div>
   </div>
 </div>
 <p ng-if="track.checkOrder(email)" style="color: red">No order found with this email id.</p>
