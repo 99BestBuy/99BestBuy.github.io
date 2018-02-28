@@ -471,5 +471,18 @@ var cust = [
 		"expectedDeliveryDate":"03-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
+	},
+	{
+		"id":"5",
+		"name":"GAGAN SINGH",
+		"paymentId":"MOJO8228005D65895483",
+		"amount":196,
+		"phone":8191921401,
+		"email":"minakshykumari01995@gmail.com",
+		"date":"28-Feb-2018",
+		"status":"In Transit",
+		"expectedDeliveryDate":"04-Mar-2018",
+		"IsDelivered":false,
+		"deliveryDate":""
 	}
 ];
