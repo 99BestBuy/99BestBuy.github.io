@@ -415,7 +415,7 @@ var cust = [
 		"phone":7877536205,
 		"email":"daljeetee45@gmail.com",
 		"date":"22-Feb-2018",
-		"status":"Out for delivery",
+		"status":"Delivered [To: SELF]",
 		"expectedDeliveryDate":"27-Feb-2018"
 	},
 	{
@@ -448,7 +448,7 @@ var cust = [
 		"phone":7462985253,
 		"email":"muhammadil591@gmail.com",
 		"date":"27-Feb-2018",
-		"status":"Processing order",
+		"status":"In Transit",
 		"expectedDeliveryDate":"03-Mar-2018"
 	},
 	{
@@ -459,7 +459,7 @@ var cust = [
 		"phone":7204929281,
 		"email":"sandeepdeshwal9540@gmail.com",
 		"date":"27-Feb-2018",
-		"status":"Processing order",
+		"status":"In Transit",
 		"expectedDeliveryDate":"03-Mar-2018"
 	}
 ];
