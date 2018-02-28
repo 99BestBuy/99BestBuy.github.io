@@ -480,7 +480,7 @@ var cust = [
 		"phone":8191921401,
 		"email":"minakshykumari01995@gmail.com",
 		"date":"28-Feb-2018",
-		"status":"In Transit",
+		"status":"Processing Order",
 		"expectedDeliveryDate":"04-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
