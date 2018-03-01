@@ -442,7 +442,7 @@ var cust = [
 		"email":"weblink.amitkumar@gmail.com",
 		"date":"26-Feb-2018",
 		"status":"In Transit",
-		"expectedDeliveryDate":"02-Mar-2018",
+		"expectedDeliveryDate":"03-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
 	},
@@ -455,7 +455,7 @@ var cust = [
 		"email":"muhammadil591@gmail.com",
 		"date":"27-Feb-2018",
 		"status":"In Transit",
-		"expectedDeliveryDate":"03-Mar-2018",
+		"expectedDeliveryDate":"04-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
 	},
@@ -468,7 +468,7 @@ var cust = [
 		"email":"sandeepdeshwal9540@gmail.com",
 		"date":"27-Feb-2018",
 		"status":"In Transit",
-		"expectedDeliveryDate":"03-Mar-2018",
+		"expectedDeliveryDate":"04-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
 	},
@@ -481,7 +481,7 @@ var cust = [
 		"email":"minakshykumari01995@gmail.com",
 		"date":"28-Feb-2018",
 		"status":"Processing Order",
-		"expectedDeliveryDate":"04-Mar-2018",
+		"expectedDeliveryDate":"05-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
 	}
