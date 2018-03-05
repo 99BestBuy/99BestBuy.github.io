@@ -92,7 +92,7 @@ var sd = [
 			"evo64",
 			"evo128"
 		],
-		"paymentUrl":"https://imjo.in/3b4fsq"
+		"paymentUrl":"https://imjo.in/a39rGw"
 	},
 	{
 		"id":"evo16",
@@ -113,7 +113,7 @@ var sd = [
 			"evo64",
 			"evo128"
 		],
-		"paymentUrl":"https://imjo.in/W7Dnq3"
+		"paymentUrl":"https://imjo.in/a39rGw"
 	},
 	{
 		"id":"evo32",
@@ -134,7 +134,7 @@ var sd = [
 			"evo64",
 			"evo128"
 		],
-		"paymentUrl":"https://imjo.in/d4VTdW"
+		"paymentUrl":"https://imjo.in/Q3z5Ym"
 	},{
 		"id":"evo64",
 		"name":"Samsung Evo 64gb class 10 memory card",
@@ -154,7 +154,7 @@ var sd = [
 			"evo32",
 			"evo128"
 		],
-		"paymentUrl":"https://imjo.in/KJwHv9"
+		"paymentUrl":"https://imjo.in/Ht384v"
 	},{
 		"id":"evo128",
 		"name":"Samsung Evo 128gb class 10 memory card",
@@ -194,7 +194,7 @@ var sd = [
 			"san64",
 			"san128"
 		],
-		"paymentUrl":"https://imjo.in/hdn82X"
+		"paymentUrl":"https://imjo.in/qbeCgF"
 	},{
 		"id":"san16",
 		"name":"Sandisk 16gb class 10 memory card",
@@ -214,7 +214,7 @@ var sd = [
 			"san64",
 			"san128"
 		],
-		"paymentUrl":"https://imjo.in/PJRxk2"
+		"paymentUrl":"https://imjo.in/nS4F3u"
 	},{
 		"id":"san32",
 		"name":"Sandisk 32gb class 10 memory card",
@@ -234,7 +234,7 @@ var sd = [
 			"san64",
 			"san128"
 		],
-		"paymentUrl":"https://imjo.in/4GSZsX"
+		"paymentUrl":"https://imjo.in/742Cvc"
 	},
 	{
 		"id":"san64",
@@ -255,7 +255,7 @@ var sd = [
 			"san32",
 			"san128"
 		],
-		"paymentUrl":"https://imjo.in/WnHczk"
+		"paymentUrl":"https://imjo.in/GyKV84"
 	},
 	{
 		"id":"san128",
@@ -299,7 +299,7 @@ var pd = [
 			"sanpd32",
 			"sanpd64",
 		],
-		"paymentUrl":"https://imjo.in/Bzkf3J"
+		"paymentUrl":"https://imjo.in/57Vt8p"
 	},
 	{
 		"id":"sanpd16",
@@ -319,7 +319,7 @@ var pd = [
 			"sanpd32",
 			"sanpd64"
 		],
-		"paymentUrl":"https://imjo.in/52KkyW"
+		"paymentUrl":"https://imjo.in/CDbDFY"
 	},
 	{
 		"id":"sanpd32",
@@ -339,7 +339,7 @@ var pd = [
 			"sanpd16",
 			"sanpd64"
 		],
-		"paymentUrl":"https://imjo.in/yemqSp"
+		"paymentUrl":"https://imjo.in/VcdYQs"
 	},{
 		"id":"sanpd64",
 		"name":"Sandisk Cruzer Blade 64 GB",
@@ -358,7 +358,7 @@ var pd = [
 			"sanpd16",
 			"sanpd32"
 		],
-		"paymentUrl":"https://imjo.in/p7Nhwt"
+		"paymentUrl":"https://imjo.in/pYmbg5"
 	}
 ];
 
@@ -380,7 +380,7 @@ var pb = [
 		"similarItems":[
 			""
 		],
-		"paymentUrl":"https://imjo.in/fFpHDn"
+		"paymentUrl":""
 	}
 ];
 
@@ -401,7 +401,7 @@ var sp = [
 		"similarItems":[
 			""
 		],
-		"paymentUrl":"https://imjo.in/fFpHDn"
+		"paymentUrl":""
 	}
 ];
 
@@ -428,7 +428,7 @@ var cust = [
 		"phone":8056356400,
 		"email":"venkatanarayann@gmail.com",
 		"date":"25-Feb-2018",
-		"status":"In Transit",
+		"status":"Refunded",
 		"expectedDeliveryDate":"29-Feb-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
@@ -441,7 +441,7 @@ var cust = [
 		"phone":9953965296,
 		"email":"weblink.amitkumar@gmail.com",
 		"date":"26-Feb-2018",
-		"status":"In Transit",
+		"status":"Refunded",
 		"expectedDeliveryDate":"03-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
@@ -454,7 +454,7 @@ var cust = [
 		"phone":7462985253,
 		"email":"muhammadil591@gmail.com",
 		"date":"27-Feb-2018",
-		"status":"In Transit",
+		"status":"Refunded",
 		"expectedDeliveryDate":"04-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
@@ -467,20 +467,20 @@ var cust = [
 		"phone":7204929281,
 		"email":"sandeepdeshwal9540@gmail.com",
 		"date":"27-Feb-2018",
-		"status":"In Transit",
+		"status":"Refunded",
 		"expectedDeliveryDate":"04-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
 	},
 	{
-		"id":"5",
+		"id":"6",
 		"name":"GAGAN SINGH",
 		"paymentId":"MOJO8228005D65895483",
 		"amount":196,
 		"phone":8191921401,
 		"email":"minakshykumari01995@gmail.com",
 		"date":"28-Feb-2018",
-		"status":"Processing Order",
+		"status":"Refunded",
 		"expectedDeliveryDate":"05-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
