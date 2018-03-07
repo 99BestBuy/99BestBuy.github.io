@@ -92,7 +92,7 @@ var sd = [
 			"evo64",
 			"evo128"
 		],
-		"paymentUrl":"https://imjo.in/a39rGw"
+		"paymentUrl":"https://imjo.in/jkqVm9"
 	},
 	{
 		"id":"evo16",
@@ -113,7 +113,7 @@ var sd = [
 			"evo64",
 			"evo128"
 		],
-		"paymentUrl":"https://imjo.in/a39rGw"
+		"paymentUrl":"https://imjo.in/ZH5CR2"
 	},
 	{
 		"id":"evo32",
@@ -134,7 +134,7 @@ var sd = [
 			"evo64",
 			"evo128"
 		],
-		"paymentUrl":"https://imjo.in/Q3z5Ym"
+		"paymentUrl":"https://imjo.in/grp4nR"
 	},{
 		"id":"evo64",
 		"name":"Samsung Evo 64gb class 10 memory card",
@@ -154,7 +154,7 @@ var sd = [
 			"evo32",
 			"evo128"
 		],
-		"paymentUrl":"https://imjo.in/Ht384v"
+		"paymentUrl":"https://imjo.in/Aktash"
 	},{
 		"id":"evo128",
 		"name":"Samsung Evo 128gb class 10 memory card",
@@ -194,7 +194,7 @@ var sd = [
 			"san64",
 			"san128"
 		],
-		"paymentUrl":"https://imjo.in/qbeCgF"
+		"paymentUrl":"https://imjo.in/XvRKCs"
 	},{
 		"id":"san16",
 		"name":"Sandisk 16gb class 10 memory card",
@@ -214,7 +214,7 @@ var sd = [
 			"san64",
 			"san128"
 		],
-		"paymentUrl":"https://imjo.in/nS4F3u"
+		"paymentUrl":"https://imjo.in/hgP2dv"
 	},{
 		"id":"san32",
 		"name":"Sandisk 32gb class 10 memory card",
@@ -234,7 +234,7 @@ var sd = [
 			"san64",
 			"san128"
 		],
-		"paymentUrl":"https://imjo.in/742Cvc"
+		"paymentUrl":"https://imjo.in/AHVGNQ"
 	},
 	{
 		"id":"san64",
@@ -255,7 +255,7 @@ var sd = [
 			"san32",
 			"san128"
 		],
-		"paymentUrl":"https://imjo.in/GyKV84"
+		"paymentUrl":"https://imjo.in/nxVXrG"
 	},
 	{
 		"id":"san128",
@@ -299,7 +299,7 @@ var pd = [
 			"sanpd32",
 			"sanpd64",
 		],
-		"paymentUrl":"https://imjo.in/57Vt8p"
+		"paymentUrl":"https://imjo.in/eSUYPB"
 	},
 	{
 		"id":"sanpd16",
@@ -319,7 +319,7 @@ var pd = [
 			"sanpd32",
 			"sanpd64"
 		],
-		"paymentUrl":"https://imjo.in/CDbDFY"
+		"paymentUrl":"https://imjo.in/METDq2"
 	},
 	{
 		"id":"sanpd32",
@@ -339,7 +339,7 @@ var pd = [
 			"sanpd16",
 			"sanpd64"
 		],
-		"paymentUrl":"https://imjo.in/VcdYQs"
+		"paymentUrl":"https://imjo.in/97fjGj"
 	},{
 		"id":"sanpd64",
 		"name":"Sandisk Cruzer Blade 64 GB",
@@ -358,7 +358,7 @@ var pd = [
 			"sanpd16",
 			"sanpd32"
 		],
-		"paymentUrl":"https://imjo.in/pYmbg5"
+		"paymentUrl":"https://imjo.in/ZKmWww"
 	}
 ];
 
