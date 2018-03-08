@@ -19,7 +19,7 @@
   <div class="row" ng-if="track.show==true" style="text-align: center">
     <div class="col-12" ng-repeat="customer in track.customers">
       <div ng-if="customer.email == email" class="row" style="margin-bottom: 5%;border: 2px solid rgba(0,0,0,0.2);padding: 1% 0%;">
-        <div class="col-12 col-md-12" style="padding: 1%" ng-show="customer.productName">
+        <div class="col-12 col-md-12" style="padding: 1%" ng-hide="customer.productName == ''">
           <div class="row">
             <div class="col-12">{{customer.productName}}</div>
             <div class="col-12"><img ng-src="images/{{customer.productId}}.jpg" style="height: 5em;margin-top:1%;"></div>
