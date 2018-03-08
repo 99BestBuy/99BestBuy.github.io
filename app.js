@@ -499,5 +499,20 @@ var cust = [
 		"expectedDeliveryDate":"13-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
+	},
+	{
+		"id":"8",
+		"name":"Shashikant Ojha",
+		"paymentId":"MOJO8308005W86082041",
+		"productId":"evo64",
+		"productName":"Sandisk 64gb class 10 memory card",
+		"amount":320,
+		"phone":9953568922,
+		"email":"sk.ojha1984@gmail.com",
+		"date":"08-Mar-2018",
+		"status":"Processing Order",
+		"expectedDeliveryDate":"13-Mar-2018",
+		"IsDelivered":false,
+		"deliveryDate":""
 	}
 ];
