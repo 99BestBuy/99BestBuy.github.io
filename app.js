@@ -484,5 +484,18 @@ var cust = [
 		"expectedDeliveryDate":"05-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
+	},
+	{
+		"id":"7",
+		"name":"Panyam Suresh",
+		"paymentId":"MOJO8308005N86074906",
+		"amount":270,
+		"phone":8191921401,
+		"email":"p_suresh2011@hotmail.com",
+		"date":"08-Mar-2018",
+		"status":"Processing Order",
+		"expectedDeliveryDate":"13-Mar-2018",
+		"IsDelivered":false,
+		"deliveryDate":""
 	}
 ];
