@@ -490,7 +490,7 @@ var cust = [
 		"name":"Panyam Suresh",
 		"paymentId":"MOJO8308005N86074906",
 		"amount":270,
-		"phone":8191921401,
+		"phone":8608418266,
 		"email":"p_suresh2011@hotmail.com",
 		"date":"08-Mar-2018",
 		"status":"Processing Order",
