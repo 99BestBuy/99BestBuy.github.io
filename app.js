@@ -489,6 +489,8 @@ var cust = [
 		"id":"7",
 		"name":"Panyam Suresh",
 		"paymentId":"MOJO8308005N86074906",
+		"productId":"evo32",
+		"productName":"Sandisk 32gb class 10 memory card",
 		"amount":270,
 		"phone":8608418266,
 		"email":"p_suresh2011@hotmail.com",
