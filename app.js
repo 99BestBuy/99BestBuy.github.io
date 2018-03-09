@@ -495,7 +495,7 @@ var cust = [
 		"phone":8608418266,
 		"email":"p_suresh2011@hotmail.com",
 		"date":"08-Mar-2018",
-		"status":"Processing Order",
+		"status":"In Transit",
 		"expectedDeliveryDate":"13-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
@@ -510,7 +510,7 @@ var cust = [
 		"phone":9953568922,
 		"email":"sk.ojha1984@gmail.com",
 		"date":"08-Mar-2018",
-		"status":"Processing Order",
+		"status":"In Transit",
 		"expectedDeliveryDate":"13-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
