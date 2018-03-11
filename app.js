@@ -514,5 +514,20 @@ var cust = [
 		"expectedDeliveryDate":"13-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
+	}},
+	{
+		"id":"9",
+		"name":"Ashish Kumar",
+		"paymentId":"MOJO8311005N53663151",
+		"productId":"sanpd8",
+		"productName":"Sandisk Cruzer Blade 8GB",
+		"amount":180,
+		"phone":9466063289,
+		"email":"ashupakasma@gmail.com",
+		"date":"11-Mar-2018",
+		"status":"Processing Order",
+		"expectedDeliveryDate":"16-Mar-2018",
+		"IsDelivered":false,
+		"deliveryDate":""
 	}
 ];
