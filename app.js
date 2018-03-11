@@ -514,7 +514,7 @@ var cust = [
 		"expectedDeliveryDate":"13-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
-	}},
+	},
 	{
 		"id":"9",
 		"name":"Ashish Kumar",
