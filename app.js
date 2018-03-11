@@ -519,7 +519,7 @@ var cust = [
 		"id":"9",
 		"name":"Ashish Kumar",
 		"paymentId":"MOJO8311005N53663151",
-		"productId":"sanpd8",
+		"productId":"san8",
 		"productName":"Sandisk Cruzer Blade 8GB",
 		"amount":180,
 		"phone":9466063289,
