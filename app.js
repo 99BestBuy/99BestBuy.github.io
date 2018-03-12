@@ -525,8 +525,23 @@ var cust = [
 		"phone":9466063289,
 		"email":"ashupakasma@gmail.com",
 		"date":"11-Mar-2018",
-		"status":"Processing Order",
+		"status":"In Transit",
 		"expectedDeliveryDate":"16-Mar-2018",
+		"IsDelivered":false,
+		"deliveryDate":""
+	},
+	{
+		"id":"10",
+		"name":"krishna murari",
+		"paymentId":"MOJO8312005D84193876",
+		"productId":"san64",
+		"productName":"Sandisk 64gb memory card",
+		"amount":339,
+		"phone":8100043723,
+		"email":"kmkiem12345@gmail.com",
+		"date":"12-Mar-2018",
+		"status":"Processing Order",
+		"expectedDeliveryDate":"17-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
 	}
