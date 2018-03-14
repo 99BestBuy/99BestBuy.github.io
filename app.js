@@ -540,8 +540,23 @@ var cust = [
 		"phone":8100043723,
 		"email":"kmkiem12345@gmail.com",
 		"date":"12-Mar-2018",
-		"status":"Processing Order",
+		"status":"In transit",
 		"expectedDeliveryDate":"17-Mar-2018",
+		"IsDelivered":false,
+		"deliveryDate":""
+	},
+	{
+		"id":"11",
+		"name":"Shailendra singh",
+		"paymentId":"MOJO8314005A94811141",
+		"productId":"evo64",
+		"productName":"Samsung Evo 64gb memory card",
+		"amount":320,
+		"phone":8010138094,
+		"email":"raghavshailendra81@gmail.com",
+		"date":"14-Mar-2018",
+		"status":"Processing Order",
+		"expectedDeliveryDate":"19-Mar-2018",
 		"IsDelivered":false,
 		"deliveryDate":""
 	}
